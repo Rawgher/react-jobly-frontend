@@ -1,0 +1,10 @@
+.CompanyCard {
+  background-color: lightgray;
+  border-radius: 10px;
+  padding: 20px;
+  margin: 20px;
+}
+
+.CompanyCard-body {
+  color: #000;
+}

@@ -1,0 +1,32 @@
+.SignUp {
+  background-color: lightgray;
+  width: 600px;
+  border-radius: 10px;
+  padding: 20px;
+  color: #000;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.SignUp-error-txt {
+  color: red;
+  font-size: 20px;
+  font-weight: 700;
+  padding: 20px 40px;
+}
+
+.SignUp-form {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 30px;
+  margin-bottom: 30px;
+}
+
+.SignUp-form input {
+  width: 300px;
+  padding: 10px;
+}

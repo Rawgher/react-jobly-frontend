@@ -1,0 +1,24 @@
+.Home {
+  background-color: lightgray;
+  height: 300px;
+  width: 600px;
+  border-radius: 10px;
+  padding: 20px;
+  color: #000;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.Home-btn-div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 40px;
+  margin-top: 30px;
+}
+
+.Home-btn-div button {
+  width: 150px;
+}

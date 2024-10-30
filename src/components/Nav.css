@@ -1,0 +1,26 @@
+.Nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  max-width: 100%;
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  background-color: lightgray;
+  padding: 20px 0;
+}
+
+.Nav-left,
+.Nav-right {
+  padding: 0 20px;
+}
+
+.Nav-link {
+  color: #000;
+}
+
+.Nav-right .Nav-link {
+  padding: 0 20px;
+}

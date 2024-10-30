@@ -1,0 +1,14 @@
+.JobCard {
+  background-color: lightgray;
+  border-radius: 10px;
+  padding: 20px;
+  margin: 20px;
+}
+
+.JobCard-body {
+  color: #000;
+}
+
+.JobCard-apply {
+  background-color: green;
+}
